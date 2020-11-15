@@ -30,6 +30,7 @@ async def on_message(command):
 	# 1. Handle Greeting: 'hi' -> 'hey'
 	if command.content == 'hi':
 		await command.channel.send('hey')
+		return
 	
 	cmd_tokens = command.content.split()
 	cmd_userid = command.author.id
