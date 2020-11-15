@@ -59,6 +59,7 @@ async def on_message(command):
 
 
 # Starting the bot
+print (Config.DISCORD_TOKEN)
 client.run(Config.DISCORD_TOKEN)
 
 # close connection to database
