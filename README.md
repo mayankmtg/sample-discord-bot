@@ -1,4 +1,4 @@
-# Bluestacks Backend Assignment
+# Sample Discord Bot
 
 ## Running the solution
 
