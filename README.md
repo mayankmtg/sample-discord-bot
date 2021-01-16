@@ -1,4 +1,4 @@
-# Sample Discord Bot
+# Bluestacks Discord Bot
 
 ## Running the solution
 
